@@ -10,7 +10,7 @@
 		<li><a href="<?php echo base_url() ?>native/segitiga1.php">2. Notasi Algoritma Pola (f1)</a></li>
 		<li><a href="<?php echo base_url() ?>native/segitiga2.php">3. Notasi Algoritma Pola (f2)</a></li>
 		<li><a href="<?php echo base_url() ?>native/segitiga2.php">4. Output Anggka</a></li>
-		<li><a href="">5. Rancangan Basisdata</a></li>
+		<li><a href="<?php echo base_url() ?>native/erd_silsilah_keluarga.jpg">5. Rancangan Basisdata Sililah Keluarga (ERD)</a></li>
 		<li><a href="<?php echo base_url('login') ?>">6. Program Survei Harga Komoditas</a></li>
 	</ul>
 	<hr>
